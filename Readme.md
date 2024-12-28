@@ -13,4 +13,4 @@ Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tok
 I am using free service of render of after a period of inactivity render automatically spin down to conserve resources so the first request after a period of inactivity can take significantly longer, often 50 seconds or more, as the instance has to "wake up."
 To handle this problem i am using a *Keep Alive Server Technique* using UptimeRobot
 
-Deployed Link : https://videotube-sankalp.vercel.app/
+Deployed Link :[ https://videotube-sankalp.vercel.app/](https://video-hosting-platform.vercel.app/)
